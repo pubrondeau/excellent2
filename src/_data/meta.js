@@ -7,9 +7,9 @@ module.exports = {
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
-  author: 'Lene Saile', // i.e. Lene Saile - author's name. Must be set.
-  authorEmail: '', // i.e. hola@lenesaile.com - email of the author
-  authorWebsite: '', // i.e. https.://www.lenesaile.com - the personal site of the author
+  author: 'Emmanuel Rondeau', // i.e. Lene Saile - author's name. Must be set.
+  authorEmail: 'emmanuelrondeau@gmail.com', // i.e. hola@lenesaile.com - email of the author
+  authorWebsite: 'https.://www.jekife.fr', // i.e. https.://www.lenesaile.com - the personal site of the author
   themeColor: '#E54848', //  Manifest: defines the default theme color for the application
   themeBgColor: '#FFFDF5', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
@@ -38,7 +38,7 @@ module.exports = {
     zip: '12345',
     mobileDisplay: '+34 1234567',
     mobileCall: ' +341234567',
-    email: 'hola@yoursite.com',
+    email: 'emmanuelrondeau@gmail.com',
     cif: ''
   },
   menu: {
